@@ -1,0 +1,84 @@
+---
+title: "dandilyonn-seeds"
+mathjax: true
+layout: post
+categories: media
+---
+
+## Module 1: Foundations of LLMs, Prompting, and Agent Fundamentals
+
+---
+
+### 1. Foundations of LLMs & API Interaction
+
+#### Overview
+
+[![Foundations of LLMs](https://img.youtube.com/vi/hfIUstzHs9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=hfIUstzHs9A)
+
+---
+
+#### Topics Covered
+
+**What Are Agents**  
+[![What Are Agents](https://img.youtube.com/vi/eHEHE2fpnWQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=eHEHE2fpnWQ)
+
+* [Hugging Face: What Are Agents](https://huggingface.co/learn/agents-course/en/unit1/what-are-agents)
+
+---
+
+**Large Language Models (LLMs)**  
+[![What Are LLMs](https://img.youtube.com/vi/LPZh9BOjkQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=LPZh9BOjkQs&t=25s)
+
+* [Hugging Face: What Are LLMs](https://huggingface.co/learn/agents-course/en/unit1/what-are-llms)
+* [AWS: What Is a Large Language Model](https://aws.amazon.com/what-is/large-language-model/)
+* [RedHat: LLMs Explained](https://www.redhat.com/en/topics/ai/what-are-large-language-models)
+
+---
+
+**Prompt Engineering**  
+[![Prompt Engineering](https://img.youtube.com/vi/LAF-lACf2QY/maxresdefault.jpg)](https://www.youtube.com/watch?v=LAF-lACf2QY)
+
+* [Hugging Face: Messages and Special Tokens](https://huggingface.co/learn/agents-course/unit1/messages-and-special-tokens)
+
+---
+
+**Introduction to LangChain**  
+[![LangChain Intro](https://img.youtube.com/vi/aywZrzNaKjs/maxresdefault.jpg)](https://www.youtube.com/watch?v=aywZrzNaKjs)
+
+* [LangChain: Message Structure](https://python.langchain.com/docs/concepts/messages/)
+* [LangChain: Agents Tutorial](https://python.langchain.com/docs/tutorials/agents/)
+
+---
+
+**Tools in Agent Environments**
+
+* [Hugging Face: Tools for Agents](https://huggingface.co/learn/agents-course/unit1/tools)
+
+---
+
+**Thought-Action-Observation Cycle**
+
+* [Hugging Face: Agent Steps and Structure](https://huggingface.co/learn/agents-course/unit1/agent-steps-and-structure)
+
+---
+
+### 2. Hands-On Practice
+
+#### Exercises
+
+* **Dummy Agent Library**  
+  [Practice the Thought-Action-Observation Cycle](https://huggingface.co/learn/agents-course/unit1/dummy-agent-library)
+
+* **smolagent Tutorial**  
+  [Build a Basic Agent from Scratch](https://huggingface.co/learn/agents-course/unit1/tutorial)
+
+---
+
+### 3. Complementary Concepts
+
+* [ReAct Prompting – Paper](https://arxiv.org/abs/2210.03629)
+* [Toolformer – Self-supervised Tool Use](https://arxiv.org/abs/2302.04761)
+* [Function Calling in OpenAI API](https://platform.openai.com/docs/guides/function-calling)
+* [LangChain Agents Documentation](https://python.langchain.com/docs/modules/agents/)
+* [OpenAI Guide to Building Agents – PDF](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+* [Transformer Visualizer – Interactive Tool](https://poloclub.github.io/transformer-explainer/)
