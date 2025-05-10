@@ -6,3 +6,5 @@ Gemfile.lock
 _site
 *.gem
 example
+.env
+*.ipynb
