@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<link rel="icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
@@ -6,7 +7,6 @@
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
-<link rel="icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
 {% if site.show_frame %}
 <link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
 {% else %}
