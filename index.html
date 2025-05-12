@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<link rel="icon" href="/assets/images/favicon.png" type="image/png">
+<link rel="icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
 
 {% if site.show_excerpts %}
   {% include home.html %}
