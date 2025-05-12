@@ -1,6 +1,10 @@
 ---
 layout: default
+head: |
+  <link rel="icon" href="{{ "/assets/images/favicon.png" | relative_url }}" type="image/png">
+  <link rel="shortcut icon" type="image/png" href="{{ "/assets/images/favicon.png" | relative_url }}">
 ---
+
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
