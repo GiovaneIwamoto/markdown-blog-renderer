@@ -1,10 +1,20 @@
+# System files
 .DS_Store
+
+# Ruby-related files
 .bundle
 .jekyll-cache
 .sass-cache
 Gemfile.lock
 _site
 *.gem
-example
+
+# Environment and configuration files
 .env
+
+# Jupyter Notebook files
 *.ipynb
+
+# Example and task directories
+example
+tasks

@@ -1,1 +1,1 @@
-![banner](/images/banner_seeds.png)
+![banner](assets/images/banner_seeds.png)
