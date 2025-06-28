@@ -1,6 +1,6 @@
-title: "DANDILYONN SEEDS"
+title: "Lorem ipsum dolor sit"
 author: "Giovane Iwamoto"
-description: "Dandilyonn - Earth is Worth it"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet malesuada dolor. Suspendisse nec."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:giovaneiwamoto@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:example@example.com"}
   - {title: Github, icon: github, url: "https://github.com/GiovaneIwamoto"}
-  - {title: Site, icon: rss, url: "https://www.dandilyonn.com"}
+  - {title: Site, icon: rss, url: "https://www.lipsum.com"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
